@@ -1,0 +1,18 @@
+{
+  "name": "lec-2-se",
+  "version": "1.0.0",
+  "description": "lecture 2 me jo padha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pankaj",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "loadsh": "^0.0.4",
+    "lodash": "^4.17.21",
+    "mongoose": "^8.4.1",
+    "nodemon": "^3.1.3"
+  }
+}
